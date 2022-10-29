@@ -3,11 +3,11 @@ welcome to my GitHub!
 - 👀 I’m interested in work with data engineer
 - 🌱 I’m currently learning:                                                  
                  
-               | Google Cloud Platform ; 
-               | Programming in Python ; 
-               | Programming in SQL and NoSQL ; 
-               | Databases  ;
-               | Exploration and visualization of data  ;
+               | Google Cloud Platform; 
+               | Programming in Python; 
+               | Programming in SQL and NoSQL; 
+               | Databases;
+               | Exploration and visualization of data;
                | Extraction, transformation and loading of Big Data  
                  
 - 📫 How to reach me: ddololiveira.pessoal@gmail.com
