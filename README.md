@@ -5,7 +5,7 @@ Welcome to my GitHub!
                  
        |Google Cloud Platform; 
        |Programming in Python; 
-       |Programming in SQL and NoSQL; 
+       |SQL and NoSQL; 
        |Databases;
        |Exploration and visualization of data;
        |Extraction,transformation and loading of Big Data  
