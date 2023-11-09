@@ -8,7 +8,7 @@ Welcome to my GitHub!
        |Software architectures; 
        |User Interface (UI) and Layouts;
        |Code versioning;
-       | View lifecycle  
+       |View lifecycle  
                  
 
 <div align="center">
