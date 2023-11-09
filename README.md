@@ -1,14 +1,14 @@
 ## Hi, I’m Daniel Oliveira
 Welcome to my GitHub!
-- 👀 I’m interested in work with data engineer
+- 👀 I’m interested in work with develop mobile 
 - 🌱 I’m currently learning:                                                  
                  
-       |Google Cloud Platform; 
-       |Programming in Python; 
-       |SQL and NoSQL; 
-       |Databases;
-       |Exploration and visualization of data;
-       |Extraction,transformation and loading of Big Data  
+       |Software development; 
+       |Programming in Kotlin; 
+       |Software architectures; 
+       |User Interface (UI) and Layouts;
+       |Code versioning;
+       | View lifecycle  
                  
 
 <div align="center">
