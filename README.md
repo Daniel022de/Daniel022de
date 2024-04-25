@@ -1,42 +1,20 @@
-## Hi, I’m Daniel Oliveira
-Welcome to my GitHub!
-- 👀 I’m interested in work with develop mobile 
-- 🌱 I’m currently learning:                                                  
-                 
-       |Software development; 
-       |Programming in Kotlin; 
-       |Software architectures; 
-       |User Interface (UI) and Layouts;
-       |Code versioning;
-       |View lifecycle  
-                 
+<h1 align="center">Hi 👋, I'm Daniel Oliveira</h1>
+<h3 align="center">A passionate mobile developer from Brasil</h3>
 
-<div align="center">
-  <a href="https://github.com/Daniel022de">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel022de&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel022de&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel022de" alt="daniel022de" /></a> </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Daniel-Kotlin" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Daniel-AndroidStudio" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img align="center" alt="Daniel-Python" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Daniel-SQL" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  
-</div>
+- 🔭 I’m currently working on [Buscapé App](https://play.google.com/store/apps/details?id=br.com.buscape.MainPack&hl=pt_BR&gl=US)
 
-##
-<div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://www.linkedin.com/in/daniel-oliveira-503b0323b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.linkedin.com/in/daniel-oliveira-503b0323b/" height="30" width="40" /></a>
+</p>
 
- <a href="https://www.linkedin.com/in/daniel-oliveira-503b0323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ddololiveira.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel022de&show_icons=true&locale=en&layout=compact" alt="daniel022de" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel022de&show_icons=true&locale=en" alt="daniel022de" /></p>
 
-
-
-<!---
-Daniel022de/Daniel022de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel022de&" alt="daniel022de" /></p>
