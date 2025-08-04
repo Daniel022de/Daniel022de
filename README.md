@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel022de" alt="daniel022de" /></a> </p>
 
-- 🔭 I’m currently working on [Buscapé](https://play.google.com/store/apps/details?id=br.com.buscape.MainPack&hl=pt_BR&gl=US)
+- 🔭 I’m currently working on [Banco PAN](https://play.google.com/store/apps/details?id=br.com.buscape.MainPack&hl=pt_BR&gl=US)
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
